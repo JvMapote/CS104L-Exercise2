@@ -50,4 +50,3 @@ print("\nAfter removing the first item from the list:")
 items.delete_item('PHP')
 for val in items.iterate_item():
     print(val)
-
